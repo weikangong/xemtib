@@ -1,0 +1,84 @@
+{
+  "volume": [
+    {
+        "name": "binance",
+        "volume": 255264.57,
+        "currency": "BTC"
+    },
+    {
+        "name": "kraken",
+        "volume": 133264.76,
+        "currency": "ETH"
+    },
+    {
+        "name": "bitflyer",
+        "volume": 20734.96,
+        "currency": "BTC"
+    },
+    {
+        "name": "gdax",
+        "volume": 33442.32,
+        "currency": "BTC"
+    },
+    {
+        "name": "bitfinex",
+        "volume": 91176.90,
+        "currency": "BTC"
+    },
+    {
+        "name": "bithumb",
+        "volume": 61398.88,
+        "currency": "BTC"
+    },
+    {
+        "name": "quoinex",
+        "volume": 20826.33,
+        "currency": "BTC"
+    },
+    {
+        "name": "kraken",
+        "volume": 36561.00,
+        "currency": "BTC"
+    },
+    {
+        "name": "gemini",
+        "volume": 42663.28,
+        "currency": "ETH"
+    },
+    {
+        "name": "idex",
+        "volume": 59320.02,
+        "currency": "ETH"
+    },
+    {
+        "name": "bittrex",
+        "volume": 53515.81,
+        "currency": "BTC"
+    },
+    {
+        "name": "hitbtc",
+        "volume": 30530.37,
+        "currency": "BTC"
+    },
+    {
+        "name": "liqui",
+        "volume": 101663.28,
+        "currency": "ETH"
+    },
+    {
+        "name": "bitstamp",
+        "volume": 21663.28,
+        "currency": "BTC"
+    },
+    {
+        "name": "bitmex",
+        "volume": 563002.48,
+        "currency": "BTC"
+    },
+    {
+        "name": "bitfinex",
+        "volume": 65567.85,
+        "currency": "ETH"
+    }
+  ]
+}
